@@ -1,1 +1,1 @@
-# belajar-kotlin-dasar
+"Selamat datang! Repositori ini ditujukan untuk merangkum pelajaran Kotlin, sebuah bahasa pemrograman modern yang kuat dan ekspresif. Dalam proses belajar Kotlin, Saya mendapatkan pemahaman yang solid tentang konsep-konsep dasar seperti array, boolean, karakter, operator matematika, number, range, string, dan variable.
